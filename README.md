@@ -45,7 +45,7 @@ This is a user authentication and management system developed based on the Flask
 
 ### 1. Environment Preparation
 ```bash
-git clone https://github.com/name - swallow/flask - test.git
+git clone https://github.com/Swallow-pei/flask - test.git
 cd flask - auth - system
 pip install -r requirements.txt
 ```
